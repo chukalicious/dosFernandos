@@ -11,7 +11,7 @@ module.exports = {
   ],
   daisyui: {
     styled: true,
-    themes: ["retro", "luxury"],
+    themes: ["fantasy", "luxury"],
     base: true,
     utils: true,
     logs: true,
