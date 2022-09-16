@@ -29,7 +29,7 @@ const Membership = () => {
           </div>
         </div>
       </div>
-      <div className="hero min-h-[50%] pt-12 bg-base-300">
+      <div className="hero min-h-[50%] pt-12 bg-base-100">
         <div className="hero-content max-w-[80%] flex-col lg:flex-row-reverse">
           <img
             src="https://live.staticflickr.com/65535/52359670522_550fcd057d_h.jpg"

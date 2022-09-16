@@ -6,6 +6,8 @@ import { themeChange } from "theme-change";
 import NavbarContainer from "./components/Navbar";
 import HeroContainer from "./components/Hero";
 import MembershipContainer from "./components/Membership";
+import PricingContainer from "./components/Pricing";
+import ContactFormContainer from "./components/ContactForm";
 import Footer from "./common/Footer";
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
       <NavbarContainer />
       <HeroContainer />
       <MembershipContainer />
+      <PricingContainer />
+      <ContactFormContainer />
       <Footer />
     </div>
   );
